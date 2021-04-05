@@ -6,6 +6,9 @@ pasta
 tarmaric
 chicken fry
 
+beans
+pizza
+
 
 
 Thank you
