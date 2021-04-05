@@ -6,6 +6,11 @@ pasta
 tarmaric
 chicken fry
 
+beans
+pizza
+
 
 
 Thank you
+
+done my changes
